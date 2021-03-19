@@ -1,5 +1,8 @@
-print("1. Speed Racer")
-print("2. Good Burger")
-print("3. Cars")
-print("4. Cars 2")
-print("5. Cars 3")
+adOne = "stinky "
+adTwo = "cheesy "
+adThree  = "crabby"
+nOne = "hamburger"
+nTwo = "hands"
+nThree = "feet toes"
+
+print("One time there was a " + adOne + adTwo + nOne ". The" + nOne "had " + adThree + nTwo "and " + adThree + nThree ". The" + nTwo
