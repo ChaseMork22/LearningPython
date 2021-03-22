@@ -1,7 +1,7 @@
-adOne = "stinky "
-adTwo = "cheesy "
-adThree  = "crabby "
-nOne = "hamburger"
+adOne = input("adverb\n")
+adTwo = input("another adverb\n")
+adThree  = input("one more adverb\n")
+nOne = input("noun\n")
 nTwo = "hands "
 nThree = "feet-toes"
 nFour = "tabel"
