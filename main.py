@@ -1,19 +1,3 @@
-input("Enter am adjective\n")
-adOne = input("Enter an adjective\n")
-input("Enter another adjective\n")
-adTwo = input("Enter another adjective\n")
-input("Enter one more adjective\n")
-adThree  = input("Enter one more adverb\n")
-input("Enter a noun\n")
-nOne = input("Enter a noun\n")
-input("Enter another noun")
-nTwo = input("Enter another noun\n")
-input("Enter one more noun\n")
-nThree = input("Enter one more noun")
-nFour = input("tabel")
-vOne = input("run")
-avOne = input("quickly ")
-vTwo = "fly"
-print(" ")
-print("One time there was a " + adOne + adTwo + nOne + ". The " + nOne + " had " + adThree + nTwo + "and " + adThree + nThree + ". The " + nOne + " could " + avOne + vOne + " accros any " + nFour + " of any size. The " + nOne + " also had the ability to " + vTwo + ".")
-print(" ")
+def addTwoNumbers(x, y):
+    return x + y
+print (addTwoNumbers(18, 11))
